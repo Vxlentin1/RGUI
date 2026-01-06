@@ -2,6 +2,9 @@
 
 A simple graphical interface for Windows Robocopy command, making file synchronization and backup tasks easier to configure and execute.
 
+![RGUI](./screenshots/RGUI.png)
+
+
 ## Overview
 
 This tool provides a user-friendly GUI wrapper around the powerful Robocopy command-line utility. It allows you to configure common Robocopy options through an intuitive interface without remembering complex command syntax.
